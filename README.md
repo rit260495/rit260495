@@ -10,7 +10,7 @@ fervent love for both coding🧑‍💻 and football⚽. (CR7 - Suiiiiiii.....)
 * 🧠  I'm learning mern.
 * ⚡  Float like a Cadillac, sting like a Beemer 🏎️
 
-  <img align = "right" src="https://i.giphy.com/media/103ZH3eKKKCKo8/giphy.gif" width="500">
+  <img align = "right" src="https://i.giphy.com/media/103ZH3eKKKCKo8/giphy.gif" width="300">
 
 ### Skills
 
