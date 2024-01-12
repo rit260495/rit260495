@@ -1,7 +1,7 @@
 Namaste 🙏.
 Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ritesh singh.
 ====================================================================================================================================
-  <img align = "right" src="https://i.giphy.com/media/103ZH3eKKKCKo8/giphy.gif" width="400" >
+  <img align = "right" src="https://i.giphy.com/media/103ZH3eKKKCKo8/giphy.gif" width="400" style="border-radius:5px" >
 
 fervent love for both coding🧑‍💻 and football⚽. (CR7 - Suiiiiiii.....)
 
