@@ -1,4 +1,4 @@
-Namaste ![]([https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://tenor.com/bRLnN.gif))My name is Ritesh singh
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ritesh singh
 ====================================================================================================================================
 
 fervent love for both coding🧑‍💻 and football⚽. (CR7 - Suiiiiiii.....)
