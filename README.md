@@ -4,13 +4,13 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 fervent love for both coding🧑‍💻 and football⚽. (CR7 - Suiiiiiii.....)
 
+  <img align = "right" src="https://i.giphy.com/media/103ZH3eKKKCKo8/giphy.gif" width="400">
 * 🖥️  See my portfolio at [Mywebsite](http://.)
 * ✉️  You can contact me at [rs2904453@gmail.com](mailto:rs2904453@gmail.com)
 * 🚀  I'm currently working on [Flutter](http://github.com/rit260495/Expense_tracker-)
 * 🧠  I'm learning mern.
 * ⚡  Float like a Cadillac, sting like a Beemer 🏎️
 
-  <img align = "right" src="https://i.giphy.com/media/103ZH3eKKKCKo8/giphy.gif" width="400">
 
 ### Skills
 
