@@ -5,7 +5,7 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 
 fervent love for both coding🧑‍💻 and football⚽. (CR7 - Suiiiiiii.....)
 
-* 🖥️  See my portfolio at [Mywebsite](http://.)
+* 🖥️  See my portfolio at [Mywebsite](https://portfolios95.netlify.app)
 * ✉️  You can contact me at [rs2904453@gmail.com](mailto:rs2904453@gmail.com)
 * 🚀  I'm currently working on [Flutter](http://github.com/rit260495/Expense_tracker-)
 * 🧠  I'm learning mern.
